@@ -1,0 +1,3 @@
+ninja: Entering directory `/home/cid/AndroidStudioProjects/aug12_2/app/.cxx/Debug/4r2z2g4f/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/aug12_2.dir/native-lib.cpp.o
+[2/2] Linking CXX shared library /home/cid/AndroidStudioProjects/aug12_2/app/build/intermediates/cxx/Debug/4r2z2g4f/obj/arm64-v8a/libaug12_2.so
